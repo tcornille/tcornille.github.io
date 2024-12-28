@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist at <a href="https://www.douane.gouv.fr/"target="_blank">DGDDI</a> <br>Studied AI at <a href="https://www.lix.polytechnique.fr/bigdata/aic/" target="_blank">Paris-Saclay University</a>
+subtitle: Data Scientist at <a href="https://www.douane.gouv.fr/"target="_blank">DGDDI</a>
 
 profile:
   align: right
@@ -14,8 +14,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a tech lover. I love building products and apps for the industry.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I work currently as a Data Scientist for the French Customs ([DGDDI](https://www.douane.gouv.fr/){:target="\_blank"}). I build products about fraud and financial anomaly detection on the import and export of goods.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before that, I worked as a Data Scientist / Tech Lead at [DATA&DATA](https://data-and-data.com/){:target="\_blank"} a small start-up located at Station F, world's biggest startup campus, where I started my professional career.
+
+I leveraged data science and AI to bring to luxury brands market insights about their online distribution and growth of their products in the grey market. 
+I was mainly responsible for creating products, conducting sales demos, and delivering proof of concepts to clients. The company won at this time the [LVMH Innovation Award](https://data-and-data.com/lvmh-innovation-award-2021-in-the-data-artificial-intelligence-category-viva-technology/){:target="\_blank"} in the category "Data & AI" thanks to the efforts my team and I have put in. 
+
+In my early academic life, I graduated in Engineering and Data Science from 
+[Arts & Métiers](https://artsetmetiers.fr/){:target="\_blank"}. I also 
+completed a second [Master in Artificial Intelligence](https://www.lix.polytechnique.fr/bigdata/aic/contributing-institutions/){:target="\_blank"} at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/){:target="\_blank"}.

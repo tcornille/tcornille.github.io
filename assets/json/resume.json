@@ -1,12 +1,13 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Théo Cornille",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "theocornille@gmail.com",
+    "phone": "+33 6 95 51 09 33",
+    "url": "https://linkedin.com/in/theocornille/",
+    "I live in": "Paris, France",
+    "github": "https://github.com/tcornille/",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,15 +23,133 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Paris-Saclay University (X, TELECOM, CENTRALESUPELEC, ENSTA)",
+      "location": "Saclay, France",
+      "url": "https://www.universite-paris-saclay.fr/",
+      "area": "Artificial Intelligence",
+      "studyType": "Master in Artificial Intelligence - M2 AIC",
+      "startDate": "2018",
+      "endDate": "2019",
+      "score": "10",
+      "courses": ["Deep Learning, Natural Language Processing, Computer Vision, Image & Signal Processing, Probabilistic Graphical Models, Reinforcement Learning"]
+    },
+    {
+      "institution": "ENSAM - Arts & Métiers School",
+      "location": "Bordeaux, France",
+      "url": "https://artsetmetiers.fr/",
+      "area": "Engineering",
+      "studyType": "Engineering degree – Programme Grande Ecole",
+      "startDate": "2015",
+      "endDate": "2018",
+      "score": "10",
+      "courses": ["Mathematics, Physics, Computer Science, Engineering Science, Industrial Management", "Majored in: Information Systems, Machine Learning and Programming"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "DGDDI (French Customs)",
+      "position": "Experienced Data Scientist",
+      "url": "https://www.douane.gouv.fr/",
+      "startDate": "2023-01",
+      "endDate": "Today",
+      "summary": "Deploying machine learning models and web apps for fraud and financial anomaly detection.",
+      "highlights": [
+        "Understanding and adapting ideas from research papers.",
+        "Developed and deployed continuously data web apps (Git CI/CD and version controlling) working with agile methodology.",
+        "Did full stack development: from data preparation (Spark), database architecture (SQL, MongoDB), AI model (Python), back-end (Flask API) and front-end (Angular, html, css)"
+      ]
+    },
+    {
+      "name": "DATA&DATA",
+      "position": "Data Scientist / Tech Lead",
+      "url": "https://data-and-data.com/",
+      "startDate": "2019-04",
+      "endDate": "2022-12",
+      "summary": "Developing AI products for online distribution tracking and grey market monitoring in the luxury industry",
+      "highlights": [
+        "Winner of the LVMH Innovation Award 2021 in the category “Data & AI”",
+        "Developed conjointly with the CEO the company from scratch: from 0 to 20 clients in the luxury sector (LVMH, Richemont, AP, Hermès) with a 100% client retention rate for 3 years.",
+        "Worked on multiple BI products (grey market, price monitoring, store locator) incorporating NLP and computer vision used mainly to identify luxury products such as watches, cosmetics, leathergoods.",
+        "Conducted dashboards demos, technical support and reporting to the client",
+        "Built a pre-owned watch quotation app for Audemars Piguet",
+        "Created an in-house web scraper able to collect any kind of data on more than 1000 websites",
+        "Follow-up and training of a small team of data scientist interns"
+      ]
+    },
+    {
+      "name": "Fortia Financial Solutions",
+      "position": "IT Business Analyst Intern",
+      "startDate": "2018-02",
+      "endDate": "2018-07",
+      "highlights": [
+        "Defined new features of “Innova” software (AI automated tool for compliance in Investment Banking)",
+        "Involved in demos & workshops to sell the solution and demonstrate use cases with client's data (BNP, SG)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational",
+      "icon": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python (Poetry, Pandas, Dask, Polars, Numpy, Scikit-learn, Pytorch, Keras, Networkx, Hugging Face, NLTK, OpenCV, Transformers, RAG, LLM), SQL/NoSQL, Linux, Cloud (Azure, AWS), Jobs Scheduling (Cron, Airflow), BI Tools (PowerBI, Streamlit), Webscraping (Selenium, Proxy), Spark, Container (Docker, Kubernetes understanding), Javascript, Typescript, Bash, Jira, Notion",
+      "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Surf", "Golf", "Football", "Running", "Chess"
+      ]
+    },
+    {
+      "name": "Mobile app development for group events",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "React native", "Expo", "Firebase", "Figma", "Flutterflow"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Tradee",
+      "summary": "Developing a cryptocurrency trading tool using Deep Q-Learning and Binance API (model training, backtesting & trading)",
+      "highlights": ["Reinforcement Learning", "Cryptocurrency", "Trading"],
+      "startDate": "2023"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Angular",
+      "date": "2023",
+      "issuer": "Orsys",
+      "url": "https://www.orsys.fr/formation-angular-2-4-maitriser-framework-front-end-google.html",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "LLMs",
+      "date": "Currently studying",
+      "issuer": "IBM (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "volunteer": [
@@ -43,72 +162,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -134,47 +187,6 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "references": [
     {
       "name": "Professor John Doe",
@@ -185,16 +197,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
