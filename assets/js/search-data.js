@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "Curriculum Vitae",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "Just cool projects I want to share 👌",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -426,6 +426,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-alphafolio",
+          title: 'AlphaFolio',
+          description: "Portfolio simulation tool",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/alphafolio/";
             },},{
         id: 'social-email',
         title: 'email',
