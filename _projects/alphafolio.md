@@ -2,7 +2,7 @@
 layout: page
 title: "AlphaFolio"
 description: Portfolio simulation tool
-img: /assets/img/patentcity_sm.png
+img: /assets/img/alphafolio_dalle.jpg
 importance: 1
 category: work in progress
 ---
@@ -29,4 +29,4 @@ category: work in progress
 
 
 
-💌 AlphaFolio is due to expand and improve continuously in the coming years. Make sure to receive updates, join our newsletter and star the GitHub repository!
+💌 Join our newsletter and star the GitHub repository!
