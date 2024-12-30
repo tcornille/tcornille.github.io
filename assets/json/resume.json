@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Théo Cornille",
-    "label": "Data Scientist",
+    "title": "Data Scientist",
     "image": "",
     "email": "theocornille@gmail.com",
     "phone": "+33 6 95 51 09 33",
     "url": "https://linkedin.com/in/theocornille/",
-    "I live in": "Paris, France",
+    "live in": "Paris, France",
     "github": "https://github.com/tcornille/",
     "location": {
       "address": "2712 Broadway St",
